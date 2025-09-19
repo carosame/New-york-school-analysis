@@ -1,1 +1,1 @@
-# New-york-scool-analysis
+# New-york-school-analysis
